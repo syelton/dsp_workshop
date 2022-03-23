@@ -3,3 +3,6 @@
 *.wav
 
 *venv*
+
+.ipynb_checkpoints
+
